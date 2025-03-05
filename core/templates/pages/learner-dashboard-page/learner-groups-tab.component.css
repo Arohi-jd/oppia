@@ -214,6 +214,21 @@
 .view-learner-group-invitation-modal .modal-body .mat-radio-button {
   display: unset;
 }
+.learner-groups-tab .invited-to-learner-groups-section.mat-accordion {
+  max-width: 736px; /* Updated max-width */
+}
+
+.learner-groups-tab .mat-expansion-panel.ng-tns-c14-1.ng-star-inserted {
+  max-width: 736px; /* Updated max-width */
+}
+
+.learner-groups-tab .mat-expansion-panel-header.mat-focus-indicator.ng-tns-c15-2.mat-expansion-toggle-indicator-after.ng-star-inserted {
+  max-width: 736px; /* Updated max-width */
+}
+
+.learner-groups-tab .mat-expansion-panel-header-title {
+  max-width: 736px; /* Updated max-width */
+}
 
 @media screen and (max-width: 575px) {
   .learner-groups-tab .oppia-learner-groups-section-title-container {
